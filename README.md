@@ -14,5 +14,3 @@
 income.
 - You can delete all items at once with delete all button
 - Bar Chart will show the budget percentage w.r.t (income+expense)
-
-Any suggestions or improvements are most welcome.
